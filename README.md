@@ -1,6 +1,5 @@
 # CyberSec-Training-Journey-
 
-## Professional Statement
 
 Aspiring Cybersecurity and Networking Specialist focused on data analysis, network administration, security, and automation. Currently developing skills in security principles and dedicated to protecting private data through strong adherence to laws and regulations.  
 
